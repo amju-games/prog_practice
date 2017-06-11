@@ -1,3 +1,4 @@
+#include <iomanip>
 #include <iostream>
   
 void calc_pi_nilakantha()
@@ -8,7 +9,7 @@ void calc_pi_nilakantha()
 
   double pi = 3.;
   int n = 2; 
-  const int NUM_ITERS = 10;
+  const int NUM_ITERS = 4000;
   for (int i = 0; i < NUM_ITERS; i++)
   {
     pi += 4. / (double(n)   * double(n+1) * double(n+2))
@@ -16,7 +17,7 @@ void calc_pi_nilakantha()
 
     n += 4;
 
-    std::cout << double(pi) << "\n";   
+    std::cout << std::setprecision(50) << double(pi) << "\n";   
   }
 }
 
