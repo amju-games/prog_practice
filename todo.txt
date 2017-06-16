@@ -1,0 +1,32 @@
+Prog practice TODO
+
+
+Project Euler
+
+Prog Pearls
+
+
+
+
+Stack
+
+Linked list
+ - common questions, e.g. reverse, add node
+
+Queue
+
+BST
+
+Balanced BST
+
+DFS, BFS, A*
+
+
+Quicksort
+
+Hash table
+
+Merge sort
+
+String class
+
