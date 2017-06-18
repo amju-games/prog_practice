@@ -7,13 +7,8 @@ Prog Pearls
 
 
 
-
-Stack
-
 Linked list
  - common questions, e.g. reverse, add node
-
-Queue
 
 BST
 
@@ -23,8 +18,6 @@ DFS, BFS, A*
 
 
 Quicksort
-
-Hash table
 
 Merge sort
 

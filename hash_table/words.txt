@@ -1,0 +1,6 @@
+C++ Developer / Senior Software Engineer (STL Boost UNIX Windows Linux TDDC/C++). Market leading software house is seeking a skilled Senior C++ Developer to join a small, talented team. This technology-driven company develops a suite of static analysis tools aimed at mission critical environments in the banking and finance sectors and is expanding massively.
+
+As a Senior C++ Developer, you will work throughout the full development lifecycle, using the latest technology (currently upgrading to C++14 from C++11) to deliver exciting new solutions. You will create new releases and new features for exciting applications, as well as refactoring legacy products.
+
+Offices based in the leafy Surrey suburb of Walton on Thames, easily commutable from the Weybridge / Hersham / Esher / Kingston area, with parking available.
+
